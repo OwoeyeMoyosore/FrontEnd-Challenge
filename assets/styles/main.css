@@ -25,15 +25,9 @@
       margin-bottom:0;
     }
 
-    .links{
-        font-size: 17px;
-        font-weight: 500;
-        color: #61794a;
-        /* background-color: white; */
-    }
-    .links:hover{
-        color: #aac644;
-    }
+   /* nav{
+    background-color: white!important;
+   } */
     /* .links{
         font-size: 17px;
         font-weight: 500;
@@ -1378,10 +1372,10 @@ html {
         height: 40px;
     }
     .mynav{
-        padding-right: 100px;
-        padding-left: 100px;
+        /* padding-right: 100px;
+        padding-left: 100px; */
         margin-top: 15px;
-        height: 70px;
+        /* height: 70px; */
     }
     .links{
         font-size: 17px;
@@ -1716,6 +1710,9 @@ html {
  /*Most of the Mobiles(Portraits*/
  @media(min-width:320px) and (max-width:480px)
  {
+    /* nav{
+        background-color: inherit!important;
+       } */
     .container-fluid{
         padding:0;
       margin: 0;
@@ -1765,13 +1762,14 @@ html {
         padding-right: 100px;
         padding-left: 100px;
         margin-top: 15px;
-        height: 70px;
+
+        /* height: 70px; */
     }
     .links{
         font-size: 17px;
         font-weight: 500;
         color: #61794a;
-        background-color: white;
+        /* background-color: white; */
     }
     .links:hover{
         color: #aac644;
