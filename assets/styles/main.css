@@ -327,7 +327,7 @@
         height: 3px;
         display: block;
         margin-bottom: 30px;
-        vertical-align: middle;
+        /* vertical-align: middle; */
         margin-right: 10px;
         background-color: #aac644;
 }
@@ -630,7 +630,7 @@ html {
         height: 3px;
         display: block;
         margin-bottom: 30px;
-        vertical-align: middle;
+        /* vertical-align: middle; */
         margin-right: 10px;
         background-color: #aac644;
 }
@@ -1930,9 +1930,9 @@ html {
         color: #f8a715;
       
 }
-.row-seven{
+/* .row-seven{
     /* margin-top: 30px; */
-}
+
 
  .seven{
     background-color: #fffef8;
