@@ -24,6 +24,23 @@
       margin-right: 0;
       margin-bottom:0;
     }
+
+    .links{
+        font-size: 17px;
+        font-weight: 500;
+        color: #61794a;
+        /* background-color: white; */
+    }
+    .links:hover{
+        color: #aac644;
+    }
+    /* .links{
+        font-size: 17px;
+        font-weight: 500;
+        color: #61794a!important;
+    }
+    .links:hover{
+        color: #aac644!important; */
 /* } */
 
 /*Desktops*/
@@ -76,10 +93,10 @@
     .links{
         font-size: 17px;
         font-weight: 500;
-        color: #61794a;
+        color: #61794a!important;
     }
     .links:hover{
-        color: #aac644;
+        color: #aac644!important;
     }
     .sec-one{
         height: 600px;
@@ -397,10 +414,10 @@ html {
     .links{
         font-size: 17px;
         font-weight: 500;
-        color: #61794a;
+        color: #61794a!important;
     }
     .links:hover{
-        color: #aac644;
+        color: #aac644!important;
     }
     .sec-one{
         height: 600px;
@@ -700,10 +717,10 @@ html {
     .links{
         font-size: 17px;
         font-weight: 500;
-        color: #61794a;
+        color: #61794a!important;
     }
     .links:hover{
-        color: #aac644;
+        color: #aac644!important;
     }
     .sec-one{
         height: 600px;
@@ -1062,10 +1079,10 @@ html {
     .links{
         font-size: 17px;
         font-weight: 500;
-        color: #61794a;
+        color: #61794a!important;
     }
     .links:hover{
-        color: #aac644;
+        color: #aac644!important;
     }
     .sec-one{
         height: 00px;
@@ -1369,10 +1386,10 @@ html {
     .links{
         font-size: 17px;
         font-weight: 500;
-        color: #61794a;
+        color: #61794a!important;
     }
     .links:hover{
-        color: #aac644;
+        color: #aac644!important;
     }
     .sec-one{
         height: 600px;
@@ -1754,6 +1771,7 @@ html {
         font-size: 17px;
         font-weight: 500;
         color: #61794a;
+        background-color: white;
     }
     .links:hover{
         color: #aac644;
